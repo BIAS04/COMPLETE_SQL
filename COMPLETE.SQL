@@ -1,5 +1,5 @@
 --  CREATE A DATABASE level1;
-
+CREATE DATABASE level1
 
 USE level1;
 
